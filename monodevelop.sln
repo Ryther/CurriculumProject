@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curriculum", "Curriculum.csproj", "{137B4416-7B89-4FED-8705-EA4A71D16682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Curriculum.Tests", "Curriculum.Tests\Curriculum.Tests.csproj", "{F84622AA-FA5D-48C9-AE36-6222DE60CB4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{137B4416-7B89-4FED-8705-EA4A71D16682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137B4416-7B89-4FED-8705-EA4A71D16682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137B4416-7B89-4FED-8705-EA4A71D16682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137B4416-7B89-4FED-8705-EA4A71D16682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84622AA-FA5D-48C9-AE36-6222DE60CB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84622AA-FA5D-48C9-AE36-6222DE60CB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84622AA-FA5D-48C9-AE36-6222DE60CB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84622AA-FA5D-48C9-AE36-6222DE60CB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
