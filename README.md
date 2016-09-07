@@ -3,5 +3,4 @@
 ####Curriculum Vitae come presentazione alle aziende
 
 ToDo:
-
-[x] Creazione dello spazio di lavoro in ASP.NET MVC
+- [x] Creazione dello spazio di lavoro in ASP.NET MVC
